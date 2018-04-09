@@ -22,3 +22,6 @@ most challenges very basic
 ### Basic Join
 - **1.Asian Population:** left joining on subquery result
 - **2.African Cities:** left joining on subquery result, null checking
+- **6.Ollivander's Inventory:** joining on multiple subqueries (try to find more elegant query)
+- **7.Challenges:** set operations, using subqueries in conditions
+- **8.Contest Leaderboard:** aggregations, joins on subqueries
